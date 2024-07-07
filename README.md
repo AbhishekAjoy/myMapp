@@ -1,5 +1,6 @@
 # Mapp
 
+This is a project for learning the openlayers library. Currently I have just implemented the map UI and also has search functionality. I might make it into something useful if something clicks.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
 
 ## Development server
