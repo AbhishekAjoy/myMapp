@@ -1,0 +1,28 @@
+
+.ol-control,
+.ol-control:hover {
+    background-color: transparent !important;
+    padding: unset !important;
+}
+
+.zoom-control {
+    bottom: 0.5em;
+    right: 0.5em;
+}
+
+button {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    margin: 5px !important;
+    cursor: pointer !important;
+    height: 26px !important;
+    width: 26px !important;
+    color: rgba(230, 0, 0) !important;
+    background-color: rgba(255, 255, 255, 0.85)!important;
+    box-shadow: black 0 3px 3px !important;
+    &:hover{
+        background-color: rgba(230, 0, 0) !important;
+        color: white !important;;
+    }
+}
+
