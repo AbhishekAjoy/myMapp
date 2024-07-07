@@ -1,4 +1,4 @@
-# Mapp
+# myMapp
 
 ![myMapp](https://github.com/AbhishekAjoy/myMapp/assets/30285558/fe338c23-7693-4251-adbf-b5a8a42e2017)
 
