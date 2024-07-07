@@ -1,5 +1,7 @@
 # Mapp
 
+![myMapp](https://github.com/AbhishekAjoy/myMapp/assets/30285558/fe338c23-7693-4251-adbf-b5a8a42e2017)
+
 This is a project for learning the openlayers library. Currently I have just implemented the map UI and also has search functionality. I might make it into something useful if something clicks.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
 
